@@ -1,7 +1,7 @@
-#ExpNo:10 Implementation of Classical Planning Algorithm 
+## ExpNo:10 Implementation of Classical Planning Algorithm 
 
-NAME:  
-REG NO:
+NAME:  SOWMIYA G
+REG NO: 2305002023
 ## Algorithm or Steps Involved:
 Define the initial state
 Define the goal state
