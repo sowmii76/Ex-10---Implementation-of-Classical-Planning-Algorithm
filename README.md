@@ -1,6 +1,7 @@
 ## ExpNo:10 Implementation of Classical Planning Algorithm 
 
 NAME:  SOWMIYA G
+
 REG NO: 2305002023
 ## Algorithm or Steps Involved:
 Define the initial state
@@ -96,6 +97,6 @@ print(plan)
 ### OUTPUT
 441153532-c6fe5f1d-478a-4654-8936-3246d274c8b0
 
-RESULT
+### RESULT
 Thus the program to implement Classical Planning Algorithm has been executed successfully.
 
